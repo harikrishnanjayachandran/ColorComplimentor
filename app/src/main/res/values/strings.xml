@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Color Complimentor</string>
+    <string name="enter_your_favourite_colour">Enter your favourite colour</string>
+    <string name="procced_to_see_the_magic">Procced to see the magic!</string>
+    <string name="Key_color">color</string>
+    <string name="details_of_colour">Details of colour</string>
+    <string name="textview">TextView</string>
+</resources>
